@@ -1,0 +1,14 @@
+*{
+
+    font-family:'Renogare'; 
+}
+
+hr {
+    height: 55%;
+    background-color: white;
+  }
+.quienesSomos{
+    padding: 3%;
+    background-color: #437bb2;
+    color:white;
+}
